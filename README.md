@@ -1,0 +1,2 @@
+# craft
+o'yin yaratish
